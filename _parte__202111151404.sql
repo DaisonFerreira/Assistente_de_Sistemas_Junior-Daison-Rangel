@@ -1,0 +1,3 @@
+INSERT INTO "parte" (PARTEID,NOME,SEXO,DOCUMENTO,TIPOPESSOA,IDENTIDADE,NASCIMENTO,FUNDACAO,TELEFONECOMERCIAL,TELEFONECELULAR,PROFISSAO,ESTADOCIVIL,EMAIL,LOGRADOURO,BAIRRO,CIDADE,ESTADO,PAIS) VALUES
+	 (1,'Lucca Theo Viana','1','884.520.264-04','Fisica','49.474.477-7','2002-04-08',NULL,NULL,'(86) 2876-7489','Porteiro','Casado','luccatheoviana_@validtecnologia.com.br','Rua Jo�o Pereira Caldas, 4277','Porto do Centro','Teresina','PI','Brasil'),
+	 (1,'Lucca Theo Viana','1','884.520.264-04','Fisica','49.474.477-7','2002-04-08',NULL,NULL,'(86) 2876-7489','Porteiro','Casado','luccatheoviana_@validtecnologia.com.br','Rua Jo�o Pereira Caldas, 4277','Porto do Centro','Teresina','PI','Brasil');
